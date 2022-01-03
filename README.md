@@ -1,12 +1,1 @@
-# SmallWebServer #
-
-## Build & Run ##
-
-```sh
-$ cd smallwebserver
-$ sbt
-> jetty:start
-> browse
-```
-
-If `browse` doesn't launch your browser, manually open [http://localhost:8080/](http://localhost:8080/) in your browser.
+A small web page built with the Scala language for the course Programming Studio 1 in 2018
